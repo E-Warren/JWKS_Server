@@ -9,3 +9,5 @@ Test suite results:
 
 Test suite:
 ![Screenshot 2024-09-21 141103](https://github.com/user-attachments/assets/ae088c32-31dd-4afd-b718-0190bda3f045)
+
+Note: AI was used within this project as a tool to aid in test generation. Commands such as "write an nbi test suite for a c++ jwks server with a way to show test coverage percent (no google)" were given.
