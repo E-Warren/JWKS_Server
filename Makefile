@@ -1,7 +1,7 @@
 # Variables
 CXX = g++
 CXXFLAGS = -std=c++11 -I./httplib -I./jwt-cpp/include
-LDFLAGS = -lcrypto -lssl
+LDFLAGS = -lcrypto -lssl -lsqlite3
 TARGET = jwks_server
 SOURCES = main.cpp
 
